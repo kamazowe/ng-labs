@@ -12,7 +12,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "myngapp",
+            "prefix": "nglabs",
             "style": "camelCase"
           }
         ],
@@ -20,7 +20,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "myngapp",
+            "prefix": "nglabs",
             "style": "kebab-case"
           }
         ]

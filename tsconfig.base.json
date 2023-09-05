@@ -15,9 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@myngapp/modules/orders": ["modules/orders/src/index.ts"],
-      "@myngapp/modules/products": ["modules/products/src/index.ts"],
-      "@myngapp/modules/shared/ui": ["modules/shared/ui/src/index.ts"]
+      "@nglabs/modules/loading-state": ["modules/loading-state/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

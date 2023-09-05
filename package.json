@@ -1,5 +1,5 @@
 {
-  "name": "@myngapp/source",
+  "name": "@nglabs/source",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -59,4 +59,3 @@
     "typescript": "~5.0.2"
   }
 }
-
